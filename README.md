@@ -22,3 +22,6 @@ exports.msk_input:openInput('This is a Header', 'This is a Placeholder', true, f
     print(input)
 end)
 ```
+
+## Credits
+* [Code Services](https://discord.com/invite/Z4Xv5zBQms)
