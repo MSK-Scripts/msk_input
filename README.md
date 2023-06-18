@@ -28,4 +28,4 @@ end)
 ```
 
 ## Credits
-* [Code Services](https://discord.com/invite/Z4Xv5zBQms)
+* [Code Service](https://discord.com/invite/Z4Xv5zBQms)
